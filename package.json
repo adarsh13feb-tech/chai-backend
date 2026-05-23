@@ -1,0 +1,20 @@
+{
+  "name": "chai-and-backend",
+  "version": "1.0.0",
+  "description": "a backend at chai and code channel",
+  "type": "module",
+  "keywords": [
+    "javacript",
+    "backend",
+    "chai"
+  ],
+  "license": "ISC",
+  "author": "Adarsh upadhyay",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
